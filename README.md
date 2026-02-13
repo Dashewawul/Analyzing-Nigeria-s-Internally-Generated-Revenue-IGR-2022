@@ -28,6 +28,3 @@ This repository contains a comprehensive analysis of the Internally Generated Re
 ## 🚀 How to Use
 1. **Data Exploration:** Open the CSV files to see the raw data and the processed pivot summaries.
 2. **Analysis:** You can use the provided data to build dashboards in Power BI, Tableau, or Excel to visualize the geographic distribution of wealth in Nigeria.
-
-- LinkedIn: [Your LinkedIn Link]
-- Portfolio: [Your Portfolio Link]
